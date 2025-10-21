@@ -1,4 +1,4 @@
-# Alibaba Product Media Extractor (PHP)
+# Alibaba Product Media Scraper (PHP)
 
 This simple PHP script uses `curl` to fetch an Alibaba product detail page and attempts to extract media items such as images.
 
