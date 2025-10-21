@@ -54,4 +54,4 @@ header('Content-Type: application/json');
 echo json_encode([
     'url' => $url,
     'mediaItems' => $mediaItems,
-], JSON_PRETTY_PRINT);
+], JSON_PRETTY_PRINT | JSON_UNESCAPED_SLASHES);
