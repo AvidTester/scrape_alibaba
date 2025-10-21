@@ -21,7 +21,7 @@ You need a PHP-enabled server or local environment like XAMPP, MAMP, or a termin
 
 ### 2. Replace the Product URL
 
-In the script (`alibaba_media_scraper.php`), locate this line:
+In the script (`index.php`), locate this line:
 
 ```php
 $url = 'https://www.alibaba.com/product-detail/Comfortable-Rolling-Office-Chair-Swivel-Wheels_1600204355800.html?...';
